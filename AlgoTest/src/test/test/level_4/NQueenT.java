@@ -3,12 +3,9 @@ package test.level_4;
 //// Level 4 < N-Queen
 
 import static org.junit.jupiter.api.Assertions.*;
-
 import java.util.Arrays;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
 import log.TLog;
 
 class NQueenT {
@@ -16,7 +13,7 @@ class NQueenT {
 	@BeforeEach
 	void setUp() throws Exception {
 		
-		TLog.Log("1111============ start ==================1");
+		TLog.Log("check Upload ============ start ==================1");
 	}
 	
 	@Test
