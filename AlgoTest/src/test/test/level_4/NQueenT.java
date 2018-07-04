@@ -14,6 +14,10 @@ class NQueenT {
 	void setUp() throws Exception {
 		
 		TLog.Log("check Upload ============ start ==================1");
+		TLog.Log("check Upload ============ start ==================1");
+		TLog.Log("check Upload ============ start ==================1");
+		TLog.Log("check Upload ============ start ==================1");
+		TLog.Log("check Upload ============ start ==================1");
 	}
 	
 	@Test
