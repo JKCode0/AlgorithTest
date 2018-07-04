@@ -13,11 +13,11 @@ class NQueenT {
 	@BeforeEach
 	void setUp() throws Exception {
 		
-		TLog.Log("check Upload ============ start ==================1");
-		TLog.Log("check Upload ============ start ==================1");
-		TLog.Log("check Upload ============ start ==================1");
-		TLog.Log("check Upload ============ start ==================1");
-		TLog.Log("check Upload ============ start ==================1");
+		TLog.Log("1check Upload ============ start ==================1");
+		TLog.Log("2check Upload ============ start ==================1");
+		TLog.Log("3check Upload ============ start ==================1");
+		TLog.Log("4check Upload ============ start ==================1");
+		TLog.Log("5check Upload ============ start ==================1");
 	}
 	
 	@Test
