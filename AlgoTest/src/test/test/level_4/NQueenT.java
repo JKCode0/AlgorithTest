@@ -16,7 +16,7 @@ class NQueenT {
 	@BeforeEach
 	void setUp() throws Exception {
 		
-		TLog.Log("============ start ==================");
+		TLog.Log("============ start ==================1");
 	}
 	
 	@Test
